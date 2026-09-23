@@ -1,8 +1,5 @@
 # Lab Assignment 2 – Student Management REST API
 
-**Subject:** Web Dev III (Node.js & Express Backend)  
-**Unit:** 2 | **In-Class Lab**
-
 ---
 
 ## 📌 Project Overview
